@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan from team lightfish
-- 👀 I’m interested in Java, AWS and Golang
+- 👀 I’m interested in Java, Typescript and Golang
 
 <!---
 JanMeier1337/JanMeier1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
